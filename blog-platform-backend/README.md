@@ -13,21 +13,28 @@ This is the backend for a blog platform featuring user authentication, blog crea
 ## 🚀 Setup Instructions
 
 1. **Clone the Repository**
+
    ```bash
-   git clone https://github.com/your-username/internship-backend-tasks.git
+   git clone https://github.com/u-s1ddhar7h/internship-backend-tasks.git
 
    cd internship-backend-tasks/blog-platform-backend
    ```
 2. **Enter the Nix-Dev Shell**
+
     ```bash
     nix develop
     ```
+
 3. **Install Dependencies**
+
     ```bash
     npm install 
     ```
-4. **Configure the Environment Variables**\
+
+4. **Configure the Environment Variables**
+
     Create a `.env` file in the root directory:
+
     ```text
     DB_HOST=localhost
     DB_USER=your_db_user
@@ -35,7 +42,9 @@ This is the backend for a blog platform featuring user authentication, blog crea
     DB_NAME=your_db_name
     JWT_SECRET=your_super_secret_32_characters_long_JWT_Token
     ```
+
 5. **Run the Server**
+
     ```bash
     npm start
     ```
