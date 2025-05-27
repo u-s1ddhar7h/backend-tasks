@@ -2,9 +2,9 @@
 
 This is a backend server for a real-time chat application built using **Node.js** and **Socket.IO**. It supports multiple chat rooms and enables real-time messaging between users via WebSockets.
 
-![Client Test App](/assets/Screenshot_20250524_181321.png)
+![Client Test App](./assets/Screenshot_20250524_181321.png)
 
-![Server Terminal](/assets/Screenshot_20250524_181419.png)
+![Server Terminal](./assets/Screenshot_20250524_181419.png)
 
 
 ## ⚙️ Tech Stack
