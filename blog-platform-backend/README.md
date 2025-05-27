@@ -80,6 +80,6 @@ This is the backend for a blog platform featuring user authentication, blog crea
 ## 📬 Postman Collection
 
 You can test the API using this Postman collection:  
-👉 [View Collection on Postman](https://www.postman.com/your-workspace/your-collection-link)
+👉 [View Collection on Postman](https://api.postman.com/collections/44023205-f1ea9c5d-f063-4704-bfa9-6a093e6a3da5?access_key=PMAT-01JW3W7WDQGYCE7W5GTJ73RG1E)
 
 ---

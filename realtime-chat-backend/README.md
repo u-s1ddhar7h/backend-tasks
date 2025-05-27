@@ -2,6 +2,11 @@
 
 This is a backend server for a real-time chat application built using **Node.js** and **Socket.IO**. It supports multiple chat rooms and enables real-time messaging between users via WebSockets.
 
+![Client Test App](/assets/Screenshot_20250524_181321.png)
+
+![Server Terminal](/assets/Screenshot_20250524_181419.png)
+
+
 ## ⚙️ Tech Stack
 
 - **Runtime:** Node.js
@@ -68,11 +73,5 @@ The chat server communicates via custom Socket.IO events. Below are the key even
 | `message`   | `{ roomId, message, sender }` | Sends a message to a room            |
 | `leaveRoom` | `{ roomId, username }`        | Leaves the specified room            |
 | `typing`    | `{ roomId, username }`        | Indicates that a user is typing      |
-
-## 📬 Postman Collection
-
-You can use Postman or tools like **Postman WebSocket** and **Socket.IO client** to test the WebSocket endpoints.
-
-👉 [View Postman Collection](https://www.postman.com/your-workspace/your-chat-collection-link)
 
 ---

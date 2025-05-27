@@ -85,6 +85,6 @@ This is the backend system for an e-commerce platform built using **Go (Gin)** a
 
 You can test the API using this Postman collection:
 
-👉 [View Collection on Postman](https://www.postman.com/your-workspace/your-ecommerce-collection-link)
+👉 [View Collection on Postman](https://api.postman.com/collections/44023205-f9943b02-9210-4468-a9f1-eb6cd8a0b78d?access_key=PMAT-01JW99BW3XN4HYZ6H5H6MTYXEM)
 
 ---

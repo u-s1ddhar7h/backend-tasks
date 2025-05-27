@@ -57,6 +57,6 @@ The dataset used is:
 
 You can test the API using this Postman collection:
 
-👉 [View Collection on Postman](https://www.postman.com/your-workspace/your-recommendation-collection-link)
+👉 [View Collection on Postman](https://api.postman.com/collections/44023205-0853aa39-e548-4ba0-813c-79563eebbd07?access_key=PMAT-01JW974Y7GZ6KBHVK53SWP8WMK)
 
 ---
