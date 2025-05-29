@@ -2,6 +2,20 @@
 
 This repository contains the backend development tasks completed as part of my internship. Each task demonstrates a different aspect of backend engineering, including RESTful API design, real-time communication, e-commerce backend development, and a basic machine learning-powered recommendation system.
 
+## Internship Details
+
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+
+*NAME*: SIDDHARTH UPADHYAY
+
+*INTERN ID*: CT12DK87
+
+*DOMAIN*: Backend Web Development
+
+*DURATION*: 12 WEEKS (March 1st, 2025 to June 1st, 2025)
+
+*MENTOR*: NEELA SANTOSH KUMAR
+
 ## 📁 Repository Structure
 
 Each folder contains a standalone backend project with its own README and setup instructions.
